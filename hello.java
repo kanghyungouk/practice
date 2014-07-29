@@ -1,2 +1,5 @@
 class hello {
+	public hello() {
+	
+	}
 }
